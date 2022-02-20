@@ -3,8 +3,11 @@ import React from 'react'
 function Header() {
   return (
     <div className='header'>
-        <div>
-            Eventor
+        <div className=''>
+            <p>Eventor</p>
+            <div>
+            SearchBars
+            </div>
         </div>
     </div>
   )
